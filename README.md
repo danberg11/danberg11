@@ -3,6 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 
 💻 **Front-End**: HTML, CSS, JavaScript, React e TypeScript.
+
 ⚙️ **Back-End**: PHP, Node.js, MySQL, Laravel  
 
 
