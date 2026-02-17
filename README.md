@@ -2,8 +2,8 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 
-💻 **Front-End**: HTML, CSS, JavaScript  
-⚙️ **Back-End**: PHP, C#, MySQL, Laravel  
+💻 **Front-End**: HTML, CSS, JavaScript, React e TypeScript.
+⚙️ **Back-End**: PHP, Node.js, MySQL, Laravel  
 
 
 [![Danberg GitHub stats](https://github-readme-stats.vercel.app/api?username=danberg11&show_icons=true&theme=dark)](https://github.com/danberg11)
